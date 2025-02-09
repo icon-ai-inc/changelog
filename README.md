@@ -1,10 +1,12 @@
 # 🚀 Welcome to Our Journey!
 
-Hey there! 👋 We're thrilled to have you join us on this exciting adventure. We're building Icon with one goal in mind: to create the most intuitive and powerful AI ad editor specifically designed for brands like you. Every update, every feature, and every improvement comes from listening to your feedback and understanding your needs.
+Hey there! 👋 We're thrilled to have you join us on this exciting adventure. We're building Icon with one goal in mind: to create the most intuitive and powerful AI ad creator specifically designed for brands and agencies like you. Every update, every feature, and every improvement comes from listening to your feedback and understanding your needs.
 
-Whether you're a seasoned agency or just starting out, we're here to make your creative process smoother, faster, and more enjoyable. Below, you'll find our latest updates and what's coming next. We can't wait to see what you'll create with Icon! 
+Whether you're a seasoned brand or just starting out, we're here to make your creative process smoother, faster, and more enjoyable. Below, you'll find our latest updates and what's coming next. We can't wait to see what you'll create with Icon! 
+
 
 ---
+
 
 ## [1.0.3] - February 7th, 2025
 
@@ -14,8 +16,7 @@ Whether you're a seasoned agency or just starting out, we're here to make your c
     - Timeline now scrolls as the playhead moves
 - Added copy pasting timeline items (Select timeline item -> control/cmd+c -> control/cmd+v)
 - Added interface for changing volume on a per-video/audio basis
-
-https://github.com/user-attachments/assets/98be0ae9-ec75-4d5d-8f02-d070aec761b0
+<video src="https://github.com/user-attachments/assets/063eab7c-d644-4774-9fca-7d2cc0324ffd" autoplay loop muted playsinline></video>
 
 ### 🐛 Fixed
 - Fixed bug where changing the aspect ratio was shifting videos up/down
