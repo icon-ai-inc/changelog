@@ -8,7 +8,7 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 ---
 
 
-## [1.0.3] - February 7th, 2025
+## [1.0.2] - February 7th, 2025
 
 ### 🎉 Features & Improvements
 - Various timeline usability improvements:
