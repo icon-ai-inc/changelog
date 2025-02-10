@@ -12,8 +12,8 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 
 ### 🎉 Features & Improvements
 - Various timeline usability improvements:
-    - Improved zooming with pinch to zoom gesture, and center around playhead when zooming (playhead will not go out of view)
-    - Timeline now scrolls as the playhead moves
+    - Improved zooming with pinch to zoom gesture and center around playhead when zooming (playhead will not go out of view)
+    - Timeline now scrolls as the playhead moves, always keeping the playhead in frame.
 - Added copy pasting timeline items (Select timeline item -> control/cmd+c -> control/cmd+v)
 - Added interface for changing volume on a per-video/audio basis
 <video src="https://github.com/user-attachments/assets/063eab7c-d644-4774-9fca-7d2cc0324ffd" autoplay loop muted playsinline></video>
