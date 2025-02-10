@@ -8,7 +8,7 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 ---
 
 
-## [1.0.2] - February 7th, 2025
+## February 7th, 2025
 
 ### 🎉 Features & Improvements
 - Various timeline usability improvements:
@@ -21,7 +21,7 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 ### 🐛 Fixed
 - Fixed bug where changing the aspect ratio was shifting videos up/down
 
-## [1.0.1] - February 5th, 2025
+## February 5th, 2025
 
 ### ✨ Features & Improvements
 - 2x speed up of creative library searching
@@ -32,7 +32,7 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 - Slow ad generation/clip uploading
 - Fixed manual video upload not working
 
-## [1.0.0] - February 4th, 2025
+## February 4th, 2025
 
 ### 🎉 Icon launched!
 
