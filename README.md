@@ -1,6 +1,6 @@
 # 🚀 Welcome to Our Journey!
 
-Hey there! 👋 We're thrilled to have you join us on this exciting adventure. We're building Icon with one goal in mind: to create the most intuitive and powerful AI ad creator specifically designed for brands and agencies like you. Every update, every feature, and every improvement comes from listening to your feedback and understanding your needs.
+Hey there! 👋 We're thrilled to have you join us on this exciting adventure. We're building Icon with one goal in mind: to create the most intuitive and powerful AI ad creator. Every update, every feature, and every improvement comes from listening to your feedback and understanding your needs.
 
 Whether you're a seasoned brand or just starting out, we're here to make your creative process smoother, faster, and more enjoyable. Below, you'll find our latest updates and what's coming next. We can't wait to see what you'll create with Icon! 
 
