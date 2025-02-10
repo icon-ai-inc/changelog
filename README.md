@@ -18,8 +18,8 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 - Added interface for changing volume on a per-video/audio basis
 <video src="https://github.com/user-attachments/assets/063eab7c-d644-4774-9fca-7d2cc0324ffd" autoplay loop muted playsinline></video>
 
-### 🐛 Fixed
-- Fixed bug where changing the aspect ratio was shifting videos up/down
+### 🐛 Bugs & Fixes
+- Changing the aspect ratio was shifting videos up/down
 
 ## February 5th, 2025
 
@@ -27,10 +27,10 @@ Whether you're a seasoned brand or just starting out, we're here to make your cr
 - 2x speed up of creative library searching
 - Added saving hotkey (we have auto-save already but if you want to immediately save, then control/cmd+s)
 
-### 🐛 Fixed
+### 🐛 Bugs & Fixes
 - Regenerate voiceover was deleting and regenerating all shots
 - Slow ad generation/clip uploading
-- Fixed manual video upload not working
+- Manual video upload not working
 
 ## February 4th, 2025
 
