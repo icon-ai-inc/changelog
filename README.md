@@ -1,5 +1,3 @@
----
-
 ## February 7th, 2025
 
 ### 🎉 Features & Improvements
